@@ -1,0 +1,1 @@
+This repository contains an example of a common error in Rust when working with raw pointers. The `bug.rs` file contains code that demonstrates the error, while the `bugSolution.rs` file provides a corrected version.
